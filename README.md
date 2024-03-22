@@ -1,8 +1,4 @@
-# Roadmap for Pro Developer
-
-## Useful Links:
-
-Flutter:
+# Useful Links for Pro Developer (Flutter)
 
 • Understanding Impeller: A deep-dive into Flutter’s Rendering Engine
 [Link](https://tomicriedel.medium.com/understanding-impeller-a-deep-dive-into-flutters-rendering-engine-ba96db0c9614)

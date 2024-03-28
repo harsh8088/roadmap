@@ -58,7 +58,7 @@ VSCode Shortcuts for Windows, macOS - Shortcuts to speed up development in VSCod
 
 ### Core Design Principles
 
-* https://en.wikipedia.org/wiki/KISS_principle
+* [KISS Principle](https://en.wikipedia.org/wiki/KISS_principle)
 * https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 * https://en.wikipedia.org/wiki/SOLID
 * https://cleancoders.com

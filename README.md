@@ -156,7 +156,7 @@ VSCode Shortcuts for Windows, macOS - Shortcuts to speed up development in VSCod
 * https://play.google.com/about/developer-content-policy/
 * https://developer.android.com/distribute/best-practices/launch/launch-checklist
 
-### Podcast
+### Podcast 🎙️
 
 * [Flutter 101 Podcast](https://flutter101.dev)
 * [It's all Widgets](https://itsallwidgets.com/podcast)

@@ -121,13 +121,13 @@ VSCode Shortcuts for Windows, macOS - Shortcuts to speed up development in VSCod
 
 ### Flutter Internals
 
-* https://youtu.be/UUfXWzp0-DU
-* https://youtu.be/dkyY9WCGMi0
-* http://www.cs.cmu.edu/~bam/uicourse/830spring20/05-830-2020-03-23-Lecture-10-Flutter.mp4
-* https://mrale.ph/dartvm/
-* https://surf.dev/flutter-under-the-hood/
-* https://docs.flutter.dev/resources/architectural-overview
-* https://surf.dev/flutter-architecture-guide/
+* [Flutter Rendering Pipline](https://youtu.be/UUfXWzp0-DU)
+* [The Mahogany Staircase - Flutter's Layered Design](https://youtu.be/dkyY9WCGMi0)
+* [Flutter Top to Bottom](http://www.cs.cmu.edu/~bam/uicourse/830spring20/05-830-2020-03-23-Lecture-10-Flutter.mp4)
+* [Dart VM](https://mrale.ph/dartvm/)
+* [Flutter Under the Hood](https://surf.dev/flutter-under-the-hood/)
+* [Flutter architectural](https://docs.flutter.dev/resources/architectural-overview)
+* [Flutter Application Architecture](https://surf.dev/flutter-architecture-guide/)
 
 ### Security
 

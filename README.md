@@ -156,6 +156,12 @@ VSCode Shortcuts for Windows, macOS - Shortcuts to speed up development in VSCod
 * https://play.google.com/about/developer-content-policy/
 * https://developer.android.com/distribute/best-practices/launch/launch-checklist
 
+### Docker
+
+* [Dockerize Flutter Apps](https://blog.codemagic.io/how-to-dockerize-flutter-apps/)
+* [Flutter Web with Docker](https://medium.com/@codemax120/flutter-web-with-docker-06cee1839adb)
+* [Dockerized Android Emulator](https://pspdfkit.com/blog/2023/run-flutter-on-dockerized-android-emulator/)
+  
 ### Podcast 🎙️
 
 * [Flutter 101 Podcast](https://flutter101.dev)

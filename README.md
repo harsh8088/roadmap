@@ -165,3 +165,8 @@ VSCode Shortcuts for Windows, macOS - Shortcuts to speed up development in VSCod
 * [Flutter 101 Podcast](https://flutter101.dev)
 * [It's all Widgets](https://itsallwidgets.com/podcast)
 * [Flying High with Flutter](https://www.youtube.com/watch?v=zknqsZ9c7cI) <a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/13671/youtube.svg" alt="harsh8088" height="20" width="20" /></a>
+
+
+### Books
+
+* [Beginning Flutter](https://digilib.stekom.ac.id/assets/dokumen/ebook/feb_3872ce7467cbdc7beedfcdc12b2b607b0ba36429_1649057575.pdf)

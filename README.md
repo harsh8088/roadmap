@@ -92,6 +92,13 @@ VSCode Shortcuts for Windows, macOS - Shortcuts to speed up development in VSCod
 
 ### Testing
 
+Automated testing falls into a few categories:
+
+* A [unit test](https://docs.flutter.dev/cookbook/testing/unit/introduction) tests a single function, method, or class.
+* A [widget test](https://docs.flutter.dev/cookbook/testing/widget/introduction) (in other UI frameworks referred to as component test) tests a single widget.
+* An [integration test](https://docs.flutter.dev/cookbook/testing/integration/introduction) tests a complete app or a large part of an app.
+
+More Useful Links
 * https://en.wikipedia.org/wiki/Test-driven_development
 * https://en.wikipedia.org/wiki/Behavior-driven_development
 * https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530

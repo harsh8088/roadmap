@@ -39,6 +39,7 @@ VSCode Shortcuts for Windows, macOS - Shortcuts to speed up development in VSCod
 * https://dart.dev/tools/linter-rules - a list of all available Dart linter rules.
 * https://dcm.dev/ - a tool to help you manage code quality and consistency (provides additional lint rules, code metrics, and more).
 
+
 ### Basic Widgets
 
 * [Widget of the Week playlist](https://youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)  <a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/13671/youtube.svg" alt="harsh8088" height="20" width="20" /></a>

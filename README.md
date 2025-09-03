@@ -20,8 +20,6 @@
 
 
 
-
-
 ### Dev Environment
 
 Android Studio Shortcuts - Shortcuts to speed up development in Android Studio.
